@@ -23,11 +23,11 @@ python basic_chatbot.py
 hello
 
 how are you
+bye
 ## Output Screenshot
 
 ![Chatbot Output](chatbot_output.png)
 
-bye
 
 ## Author
 
